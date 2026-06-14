@@ -1,6 +1,7 @@
 # 🚦 RouteX — AI-Powered Traffic Intelligence Platform
 
-![RouteX Banner](https://via.placeholder.com/1200x300?text=RouteX+AI+Traffic+Intelligence+Platform)
+![RouteX Banner](<img width="193" height="45" alt="image" src="https://github.com/user-attachments/assets/14a2158c-7292-4932-95de-d5e869b9fe58" />
+)
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
@@ -18,9 +19,9 @@ The platform combines Machine Learning, Real-Time WebSockets, Redis Caching, and
 
 ## 🚀 Live Demo
 
-* 🌐 Frontend: `http://43.205.209.209`
-* 🔗 Backend API: `http://43.205.209.209`
-* 📹 Demo Video: `https://drive.google.com/file/d/1trsAikNASzP8kqXnpEE10rLG2sgtY696/view?usp=drivesdk`
+* 🌐 Frontend: [http://43.205.209.209]
+* 🔗 Backend API: [http://43.205.209.209]
+* 📹 Demo Video: [https://drive.google.com/file/d/1trsAikNASzP8kqXnpEE10rLG2sgtY696/view?usp=drivesdk]
 
 ---
 
