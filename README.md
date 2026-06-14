@@ -1,7 +1,6 @@
 # 🚦 RouteX — AI-Powered Traffic Intelligence Platform
 
-(<img width="193" height="45" alt="image" src="https://github.com/user-attachments/assets/14a2158c-7292-4932-95de-d5e869b9fe58" />
-)
+<img width="193" height="45" alt="image" src="https://github.com/user-attachments/assets/14a2158c-7292-4932-95de-d5e869b9fe58" />
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green)
