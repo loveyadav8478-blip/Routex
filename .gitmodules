@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/loveyadav8478-blip/Routex-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/loveyadav8478-blip/Routex-Backend.git
+[submodule "ml-service"]
+	path = ml-service
+	url = https://github.com/loveyadav8478-blip/Routex-FastApi.git
